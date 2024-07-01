@@ -5,23 +5,7 @@ The design is based on the [Algolia ecommerce UI design kit](https://www.algolia
 
 [View Preview](https://algolia-pwa-ecom-ui-template.netlify.app/)
 
-<details>
-  <summary>Table of content</summary>
 
-  - [Introduction](#introduction)
-  - [Why](#why)
-  - [Getting started](#getting-started)
-  - [Used technologies](#used-technologies)
-    - [Front-end](#front-end)
-    - [The best of the Algolia platform](#the-best-of-the-algolia-platform)
-  - [InstantSearch widgets](#instantsearch-widgets)
-    - [Custom widgets](#custom-widgets)
-    - [Core widgets](#core-widgets)
-  - [Browser support](#browser-support)
-  - [Troubleshooting](#troubleshooting)
-  - [How to contribute](#how-to-contribute)
-  - [License](#license)
-</details>
 
 ## Introduction
 
